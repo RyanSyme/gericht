@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 
 const SubHeading = () => (
   <div>
     SubHeading
   </div>
-);
+)
 
-export default SubHeading;
+export default SubHeading
