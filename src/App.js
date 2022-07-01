@@ -6,9 +6,9 @@ import './App.css'
 
 const App = () => (
   <div>
-    <Navbar />
-    {/* <Header /> */}
-    <AboutUs />
+    {/* <Navbar />
+    <Header />
+    <AboutUs /> */}
     <SpecialMenu />
     <Chef />
     <Intro />
