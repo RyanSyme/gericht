@@ -41,9 +41,9 @@ const Intro = () => {
             onClick={handleVideo}
           >
             {playVideo ? 
-              <BsPauseFill color="#fff" fontSize={40}/> 
+              <BsPauseFill color="#DCCA87" fontSize={35}/> 
               : 
-              <BsFillPlayFill color="#fff" fontSize={40}/>
+              <BsFillPlayFill color="#DCCA87" fontSize={35}/>
             }
           </div>
         )}
